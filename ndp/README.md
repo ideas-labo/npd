@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 4.Divide the sampling points according to the range of configuration options.
 
-5.Edit the *GA_n.py* file to ensure that the performance test results you want are transferred to the corresponding position in the *perf_list*.
+5.5.Edit the *GA_n.py* file. You can put the data that has been tested into the ***perf_list*** for quick sampling. And you can also replace the ***perf_list*** to conduct immediate tests on the real-world software system according to the value of the currently selected test option to obtain performance data.
 
 6.Run your customized *GA_n.py* file until suspicious options are detected or the preset threshold is exceeded.
 
