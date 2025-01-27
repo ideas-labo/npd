@@ -18,5 +18,11 @@ docker run -it --name {container_name} -p {Container_port}:{native port} -d {ima
 docker exec -it {container_name} /bin/bash
 ```
 
-**Note**: The dependency and deployment method of different versions of the software system may change. Please confirm the relevant information of the current version before deployment
+**Note**: The dependency and deployment method of different versions of the software system may change. Please confirm the relevant information of the current version before deployment. If you use the dockerfile we provide, you need to modify the download link in dockerfile to adapt to different versions. The following is a common archive version download address
+
+- mysql: https://downloads.mysql.com/archives/
+- mariadb: https://mariadb.org/mariadb/all-releases/
+- apache: https://archive.apache.org/dist/httpd/
+- gcc: https://www.gnu.org/prep/ftp.html
+- clang: https://releases.llvm.org/download.html
 
