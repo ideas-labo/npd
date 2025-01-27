@@ -25,7 +25,7 @@ pip install -r requirements.txt
 python roberta_ppr.py
 ```
 
-You can find the rankings in the data_pr folder
+You can find the rankings in the *data_pr* folder, replace the ***modelpath*** with different models to get different rankings.
 
 ### Train your own model
 
