@@ -32,15 +32,17 @@ The dataset and code for the accepted ICSE25 paper "Faster Configuration Perform
 
 This repository contains the key codes, full data used and raw experiment results for the paper.
 
+All source and setup instruction for the proposed tool NDP can be found [here](https://github.com/ideas-labo/npd/tree/main/ndp).
+
 ## Folders
 
-* [RQ1](https://github.com/ADDALBA/NDP/tree/main/rq1): Contains data, models and key codes used to classify CPBugs types. See the rq1 folder for details.
+* [RQ1](https://github.com/ideas-labo/npd/tree/main/rq1): Contains data, models and key codes used to classify CPBugs types. See the rq1 folder for details.
 
 
-* [RQ2](https://github.com/ADDALBA/NDP/tree/main/rq2): Contains data, models and key codes used to Option-CPBugs Relevance Estimation. See the rq2 folder for details.
+* [RQ2](https://github.com/ideas-labo/ndp/tree/main/rq2): Contains data, models and key codes used to Option-CPBugs Relevance Estimation. See the rq2 folder for details.
 
 
-* [RQ3](https://github.com/ADDALBA/NDP/tree/main/rq3): Contains data and key codes used to CPBugs testing framework. See the rq3 folder for details.
+* [RQ3](https://github.com/ideas-labo/ndp/tree/main/rq3): Contains data and key codes used to CPBugs testing framework. See the rq3 folder for details.
 
 
-* [NDP](https://github.com/ADDALBA/NDP/tree/main/ndp): Contains deploying *NDP* in the real-world system. See the ndp folder for details.
+* [NDP](https://github.com/ideas-labo/ndp/tree/main/ndp): Contains deploying *NDP* in the real-world system. See the ndp folder for details.
