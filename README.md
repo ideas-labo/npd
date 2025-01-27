@@ -36,7 +36,7 @@ All source and setup instruction for the proposed tool NDP can be found [here](h
 
 ## Folders
 
-* [RQ1](https://github.com/ideas-labo/npd/tree/main/rq1): Contains data, models and key codes used to classify CPBugs types. See the rq1 folder for details.
+* [RQ1](https://github.com/ideas-labo/ndp/tree/main/rq1): Contains data, models and key codes used to classify CPBugs types. See the rq1 folder for details.
 
 
 * [RQ2](https://github.com/ideas-labo/ndp/tree/main/rq2): Contains data, models and key codes used to Option-CPBugs Relevance Estimation. See the rq2 folder for details.
