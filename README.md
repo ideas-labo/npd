@@ -32,7 +32,6 @@ The dataset and code for the accepted ICSE25 paper "Faster Configuration Perform
 
 This repository contains the key codes, full data used and raw experiment results for the paper.
 
-All source and setup instruction for the proposed tool NDP can be found [here](https://github.com/ideas-labo/npd/tree/main/ndp).
 
 ## Folders
 
