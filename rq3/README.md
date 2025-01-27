@@ -25,7 +25,7 @@ python uni_sampling.py
 ```
 python show_result.py
 ```
-You can obtain results in the terminal.
+You can obtain results in the terminal, replace ***folder_name*** to obtain the results of different sampling methods.
 
 ### Deploy NDP in the real-world system
 1.Ensure that the output file paths for rq1 and rq2 are correct.
