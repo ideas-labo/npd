@@ -33,4 +33,4 @@ pip install -r requirements.txt
 
 6.Run your customized *GA_n.py* file until suspicious options are detected or the preset threshold is exceeded.
 
-**Note**: Performance test results come in many forms, please make sure to select the analysis preference according to the actual effect. More details can be obtained in our paper. You can deploy different versions of real-world systems through docker. We provide some commonly used dockerfile and deployment steps which is available at：https://github.com/ideas-labo/npd/tree/main/dockerfiles.
+**Note**: Performance test results come in many forms, please make sure to select the analysis preference according to the actual effect. More details can be obtained in our paper. You can deploy different versions of real-world systems through docker. We provide some commonly used dockerfile and deployment steps which is available at：https://github.com/ideas-labo/ndp/tree/main/dockerfiles.
